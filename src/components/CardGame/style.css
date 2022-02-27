@@ -1,0 +1,11 @@
+.card-game{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-card);
+    width: 130px;
+    height: 170px;
+    border-radius: 10px;
+    border: solid 2px var(--color-border);
+
+}
