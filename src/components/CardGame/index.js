@@ -7,4 +7,5 @@ return `
 </article>
 `;
 }
+
 export default CardGame;
